@@ -1,2 +1,0 @@
-print('hiii')
-print('hiii')
